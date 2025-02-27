@@ -9,5 +9,5 @@ int main()
 
 	int c = Sum(5, 4);
 
-	std::cout << c;
+	std::cout << " " << c;
 }
